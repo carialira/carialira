@@ -1,6 +1,6 @@
-### Hi Guys 👋
+## Hi Guys 👋
 
-<h1 align="center">Hi, my name is Ariadne Candido Liranço, I'm 24 years old and I love tecnology</h1>
+<h1 align="center">my name is Ariadne Candido Liranço, I'm 24 years old and I love tecnology</h1>
 <h3 align="center">A student Web Developer</h3>
 
 
