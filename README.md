@@ -1,7 +1,11 @@
+### 🏠 [Homepage](Ariadne Candido Liranço)
+
 <h1 align="center">Welcome to, About Me 😉👋</h1>
 <br>
-### 🏠 [Homepage](Ariadne Candido Liranço)
-<h2 align="center">my name is Ariadne Candido Liranço, I'm 24 years old and I love tecnology 😍📌  </h2>
+
+<h2 align="center">My name is Ariadne Candido Liranço, better known as ari, aria, aris... </h2>
+ <h2 align="center"> I'm 24 years old and I love tecnology 😍📌  </h2>
+ <br>
 <h3 align="center">-  I'm a student Web Developer 💻💎  </h3>
 <h3 align="center">-  I’m currently working on Support Analyst 📞💻 </h3>
 <h3 align="center">-  I’m currently learning ReactJS, TypeScript, NodeJS...❕▶️💡  </h3> 
