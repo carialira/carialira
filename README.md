@@ -1,8 +1,9 @@
-## Hi Guys 👋
-
-<h1 align="center">my name is Ariadne Candido Liranço, I'm 24 years old and I love tecnology</h1>
-<h3 align="center">A student Web Developer</h3>
-
+<h1 align="center">Welcome to, About Me 😉👋</h1>
+<br>
+<h2 align="center">my name is Ariadne Candido Liranço, I'm 24 years old and I love tecnology 😍📌  </h2>
+-  I'm a student Web Developer 💻💎 
+-  I’m currently working on Support Analyst 📞💻
+-  I’m currently learning ReactJS, TypeScript, NodeJS...❕▶️💡 
 
 
 <p align="left">
@@ -14,15 +15,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/></p><p align="center">
 </p>
 
-
-
-- 🔭 I’m currently working on Support Analyst
-- 🌱 I’m currently learning ReactJS, TypeScript, NodeJS...
-
-
------------------
-
-<h1 align="center">Welcome to About Me 👋</h1>
 <p>
   <a href="https://github.com/Aricandidolira" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
