@@ -1,9 +1,10 @@
 <h1 align="center">Welcome to, About Me 😉👋</h1>
 <br>
+### 🏠 [Homepage](Ariadne Candido Liranço)
 <h2 align="center">my name is Ariadne Candido Liranço, I'm 24 years old and I love tecnology 😍📌  </h2>
--  I'm a student Web Developer 💻💎 
--  I’m currently working on Support Analyst 📞💻
--  I’m currently learning ReactJS, TypeScript, NodeJS...❕▶️💡 
+<h3 align="center">-  I'm a student Web Developer 💻💎  </h3>
+<h3 align="center">-  I’m currently working on Support Analyst 📞💻 </h3>
+<h3 align="center">-  I’m currently learning ReactJS, TypeScript, NodeJS...❕▶️💡  </h3> 
 
 
 <p align="left">
@@ -25,10 +26,6 @@
 </p>
 
 > I graduate as a web developer and have an MBA as a software engineer. At the moment I am studying JavaScript, ReactJS, TypeScript, Redux, FlexBox and a bit of NodeJS...  so I can become a front-end developer
-
-### 🏠 [Homepage](Ariadne Candido Liranço)
-
-### ✨ [Demo](https://www.linkedin.com/in/ariadnecandido/)
 
 ## Author
 
