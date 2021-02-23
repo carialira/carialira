@@ -31,5 +31,5 @@
 ## Author
 
 * Twitter: [@aricandidolira](https://twitter.com/aricandidolira)
-* Github: [@https:\/\/github.com\/Aricandidolira](https://github.com/https:\/\/github.com\/Aricandidolira)
-* LinkedIn: [@https:\/\/www.linkedin.com\/in\/ariadnecandido\/](https://linkedin.com/in/https:\/\/www.linkedin.com\/in\/ariadnecandido\/)
+* Github: [@Aricandidolira](https://github.com/https:\/\/github.com\/Aricandidolira)
+* LinkedIn: [@ariadnecandido](https://linkedin.com/in/https:\/\/www.linkedin.com\/in\/ariadnecandido\/)
