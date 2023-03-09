@@ -8,7 +8,7 @@
  <br>
 <h3 align="center">-   I'm a Web Developer  💻💎  </h3>
 <h3 align="center">-  I’m currently working on System Analyst 📞💻 </h3>
-<h3 align="center">-  I’m currently learning ReactJS, TypeScript, NodeJS...❕▶️💡  </h3> 
+<h3 align="center">-  I’m currently learning ReactJS, TypeScript, NodeJS, React Native, Docker...❕▶️💡  </h3> 
 
 
 <p align="left">
@@ -30,6 +30,7 @@
 
 ## Author
 
-* Twitter: [@aricandidolira](https://twitter.com/aricandidolira)
 * Github: [@Aricandidolira](https://github.com/https:\/\/github.com\/Aricandidolira)
 * LinkedIn: [@ariadnecandido](https://linkedin.com/in/https:\/\/www.linkedin.com\/in\/ariadnecandido\/)
+* Twitter: [@carialira](https://twitter.com/carialira)
+* Instagram: [@carialira](https://www.instagram.com/carialira/)
